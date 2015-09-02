@@ -1,0 +1,22 @@
+{
+  "name": "nz-scrollbar",
+  "version": "1.0.0",
+  "description": "An AngularJS virtual scrollbar directive (based on the work of Ariya Hidayat)",
+  "main": "nzScrollbar.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nozzle/nzScrollbar.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "scrollbar",
+    "nozzle"
+  ],
+  "author": "tannerlinsley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nozzle/nzScrollbar/issues"
+  },
+  "homepage": "https://github.com/nozzle/nzScrollbar#readme"
+}
